@@ -1,2 +1,2 @@
-# keras_
+# keras_MNIST
 kerasによるMNIST手書き文字認識用CNNの実装とその周辺
